@@ -1,0 +1,12 @@
+{
+    [
+        {
+            "EMP_NAME": "United States",
+            "EMP_DEPT": "US"
+        },
+        {
+            "EMP_NAME": "Canada",
+            "EMP_DEPT": "CA"
+        }
+    ]
+}

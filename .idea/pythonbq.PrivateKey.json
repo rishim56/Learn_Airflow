@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sylvan-plane-408707",
+  "private_key_id": "43d0bfcb62769cbe1f35c02fbe501b293af2a9ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC04b6O3n/GYAc9\nHy7sNX56WBWJCcNS6UBDH/Y2Z99woHDDwvjxZiOa0iiYwwCvzey5apNroZn+qfKk\nX6YROVQP37vali3FHw2qmzu12138vBeGab20lgsQFY0AcK0iTWX9ZDVyHVWdTvWe\nFE/Xp5D4J/OfLiMY1G3AaSaGqdt9XM/WMspiFPqopzUGWvOaE/Nd5S2eAuCM3OYV\nkA+BAvSCiVYcSC5hzw3P3CGgUSJNIXgQoG+AUKGtzsugfUEYN7bwfigMw6j8crE3\n+w2/l5EfSUSHK6bNLRm/zv9v3r5sDxXD6zmEGmw0xZZhKqJLGO9brsf62YYSL1E/\ntLduAIjZAgMBAAECggEAC0ZK73LU+hOAQAISlayb7ppQ9VLDdwaM9+IlIa0F02pc\nvQcJJ1rbe0oAN81n3I10ZPZMrBfNln8XXcGMg2RUZgznE6/quG/AFVNJvIMo75j1\nym4K4he8JsuBF3bug8XZRpsZbbyAWqbSToErnOCX+6/Z0qE4lNKg6K5lNV2fDchB\nNvWCep6qj7eRYyQbPpEAi10OLzvvm33Nl5ZycL2PmpnFcdy5hKIu1rKnP/wQXfDm\nuNS/3HSWPGPjGcgjeUUIbbXP8ZUvKU4rQB4/BoQB2xyK5gXkoeJaVta3EDuxhAuP\nsCzFxo3yPYtyH2XynQLbJ9onsLnodFMiBQB/uH2HNQKBgQDxfrmCdcyLYiEcpzfN\n6uiBy6Jrc/fhBu3xgbh14vmpsFYkkri6jrDR7oJDXeOVXQGmroGL/Un9fECXXwbQ\nkD7+CIAOTUHROGIRxK350otKFPQM428WvcMtH86qMxxDkiKpea3j1P7Ulhn0eJM0\nzQztrUw1RqZra+b+NWYoi7zggwKBgQC/vwTg41/8kYeXu1qlrGWXxq0ykrEEMk7l\nMwRn+Oe+Pvf4F+6fKy+QPUEuHyBCLKUibh+Y7Hf3CuGlxMzn43+KbCUaGW2d9Hyg\nz6Sdz6eL17wOLi8UTeUdvrSSt9r/uXTeXOLIOJ6U9Pv+errFm0iYqtss8CK8gdXe\n2EPb9246cwKBgFvP5g9nYcCMKjKOkHTFHmhaVwGrMU5oKAZtXwfSp0CQPe/hqEGl\nBiyKFRQvmdqrZXlNVws13O92Ucg65IhejtRdvvGxBZjZas9+ivYzyaj8llxgC1gG\nBTIeqZ+jltdJs8vi6u13iPqhpnR/ctfcLVIfVJ3comCswUFcY95+YeypAoGANZmg\nM31cB65myPOGk2ltvM+8+rYm5ZVqmId6Y9Ygcf4IM0H9YmEgGqIE5m+tBNKWFtnR\n212+60APc9dfsDLYJEm21WTmT5FYhVuGGNdDbsQPvacLYhGkSnxU3e6nOXUORlqQ\nyoeJTPputuR38WVHFeYs/pLiIu/oaTLrRUIVfiECgYAEkzHWSwa82cUDGUxKXBq+\nuFgnrJ6RO4V7TB6T+lNF+6iFDv/FvxB/iRw0PVp5nZIOrVjB+n3KhdqvpTOY+Jrr\nR9h0Uq9QbMiKXSohSIa7LTw7Ok/PWOcOj7npTE9Z7d4ymeIEm2mdtz/0MTYMAv0r\nrCQH1YYhCASmdJQMlETTEA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-bigquery-emp-dataset@sylvan-plane-408707.iam.gserviceaccount.com",
+  "client_id": "109722934996835947646",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-bigquery-emp-dataset%40sylvan-plane-408707.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
